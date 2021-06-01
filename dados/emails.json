@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "remetente": "Felipe",
+    "destinatario": "Gustavo",
+    "assunto": "cuzinhop",
+    "corpo": "corpo do email\ndesgraça\ncu\npíto",
+    "encaminhada": false,
+    "resposta": null
+  },
+  {
+    "id": 2,
+    "remetente": "Gustavo",
+    "destinatario": "Felipe",
+    "assunto": "vai tomar no cu",
+    "corpo": "filho da puta",
+    "encaminhada": false,
+    "resposta": 1
+  },
+  {
+    "id": 3,
+    "remetente": "Felipe",
+    "destinatario": "Gustavo",
+    "assunto": "RESPOSTA DA REPSOTA",
+    "corpo": "GAY",
+    "encaminhada": false,
+    "resposta": 2
+  },
+  {
+    "id": 4,
+    "remetente": "Gustavo",
+    "destinatario": "Gustavo",
+    "assunto": "RESPOSTA DA REPSOTA",
+    "corpo": "GAY",
+    "encaminhada": true,
+    "resposta": null
+  },
+  {
+    "id": 5,
+    "remetente": "Gustavo",
+    "destinatario": "Felipe",
+    "assunto": "RESPOSTA DA REPSOTA",
+    "corpo": "GAY",
+    "encaminhada": true,
+    "resposta": null
+  }
+]
